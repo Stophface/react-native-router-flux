@@ -35,6 +35,7 @@
 | `tabBarPosition`     | `string` |  | Specifies tabbar position. Defaults to `bottom` on iOS and `top` on Android. |
 | `activeTintColor`     | `string` |  | Specifies the active tint color for tabbar icons |
 | `tabBarComponent`     | `React.Component` |  | React component to render custom tab bar |
+| `navBar` | `React.Component`| | React component to render custom NavBar |
 | `swipeEnabled`     | `boolean` | `true` | Enable or disable swiping tabs. |
 | `animationEnabled`     | `boolean` | `true` | Enable or disable animating tabs on switch. |
 | `showLabel`     | `boolean` | `true`  | Boolean to show or not the tabbar icons labels |
